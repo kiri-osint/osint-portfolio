@@ -26,7 +26,6 @@
 
 ## 📬 Контакты
 
-- Telegram: @kkoooqwe
 - Email: osintlink@proton.me
 
 ---
