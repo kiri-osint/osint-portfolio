@@ -8,8 +8,10 @@
 ## 📁 Кейсы
 
 ### 👤 Анализ физического лица (Маковский В.В.)
-- 📄 [Отчёт на русском (PDF)](./01_Person_Analysis_Makovskiy_ru.pdf)
-- 📄 [Report in English (PDF)](./01_Person_Analysis_Makovskiy_en.pdf)
+
+[Отчёт на русском (PDF)](./01_Person_Analysis_Makovskiy_ru.pdf)
+[Отчёт на английском (PDF)](./01_Person_Analysis_Makovskiy_en.pdf)
+
 ## 🛠 Использованные инструменты
 
 - Google Dorking
