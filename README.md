@@ -10,7 +10,7 @@
 ### 👤 Анализ физического лица (Маковский В.В.)
 - 📄 [OSINT report lang.pdf](https://github.com/user-attachments/files/20653490/OSINT.report.lang.pdf)
 
-- 📄 [OSINT_Makovskiy_Report_2025.pdf](https://github.com/user-attachments/files/20653491/OSINT_Makovskiy_Report_2025.pdf)
+- 📄 [OSINT_raport_makovski(40).pdf](https://github.com/user-attachments/files/20653496/OSINT_raport_makovski.40.pdf)
 
 
 
