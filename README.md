@@ -4,13 +4,12 @@
 
 ---
 
+
 ## 📁 Кейсы
 
-### 👤
-Анализ физического лица (Маковский В.В.)
-[OSINT_Makovskiy_Report_2025.pdf](https://github.com/user-attachments/files/20653316/OSINT_Makovskiy_Report_2025.pdf)
-[OSINT report lang.pdf](https://github.com/user-attachments/files/20653314/OSINT.report.lang.pdf)
-
+### 👤 Анализ физического лица (Маковский В.В.)
+- 📄 [Отчёт на русском (PDF)](./01_Person_Analysis_Makovskiy_ru.pdf)
+- 📄 [Report in English (PDF)](./01_Person_Analysis_Makovskiy_en.pdf)
 ## 🛠 Использованные инструменты
 
 - Google Dorking
