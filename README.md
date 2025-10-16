@@ -39,9 +39,9 @@ This repository is my archive of cyberintelligence projects, tools, and case stu
 ---
 
 ## 📫 Contacts
-[![Telegram](@kkoooqwe)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)]((https://t.me/kkoooqwe))
 [![Email](https://img.shields.io/badge/Email-gray?logo=gmail)](mailto:cyberwhat@proton.me)
-[![GitHub](https://github.com/kiri-osint)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/kiri-osint)
 
 ---
 
