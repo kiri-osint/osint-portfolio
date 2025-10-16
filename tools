@@ -1,27 +1,71 @@
-       Name
-https://whatsmyname.app/
-https://namechk.com/
-https://namecheckup.com/
-https://pgp.mit.edu/
+# 🧰 My OSINT Tools
 
-       Gmail 
-https://www.osint.industries/
-https://hunter.io/
-https://epieos.com/
-https://intelx.io/
+Below is a neatly organized list of services and repositories that I frequently use in investigations.
 
-       Phone 
-https://freecarrierlookup.com/
-https://www.phonevalidator.com/
-https://www.411.com/reverse-phone-lookup
+Each link is provided with a brief description for quick reference.
 
-       scripts 
-https://github.com/datasploit/datasploit/
-https://github.com/s0md3v/ReconDog
-https://github.com/i3visio/solana-mev-bot
-https://github.com/blindfuzzy/LHF
-https://github.com/sherlock-project/sherlock
-https://github.com/bharshbarger/AutOSINT
-https://github.com/snooppr/snoop
-https://github.com/alpkeskin/mosint
+---
 
+## 🔎 Nickname / Identity Search (Name)
+Tools for checking for accounts by nickname and matching identities.
+
+- [WhatsMyName](https://whatsmyname.app/) — bulk check of nicknames on hundreds of platforms.
+
+- [Namechk](https://namechk.com/) — quick search for available nicknames and domains.
+
+- [Namecheckup](https://namecheckup.com/) — search by social services and domains.
+- [MIT PGP Keyserver (pgp.mit.edu)](https://pgp.mit.edu/) — Search for public PGP keys by address/name.
+
+---
+
+## ✉️ Mail / Email (Gmail and shared)
+Services for searching, validating, and gathering information via email.
+
+- [OSINT.Industries](https://www.osint.industries/) — A set of OSINT tools and links (including email verification).
+
+- [Hunter](https://hunter.io/) — Email search by domain and validation.
+
+- [Epieos](https://epieos.com/) — Email address search and validation (analysis tools).
+
+- [IntelX](https://intelx.io/) — Search leaks and indexed data (including email).
+
+---
+
+## 📞 Phones
+Tools for reverse number lookup, carrier verification, and validation.
+
+- [FreeCarrierLookup](https://freecarrierlookup.com/) — carrier and country identification by number.
+
+- [PhoneValidator](https://www.phonevalidator.com/) — number validation, format, and provider.
+
+- [411 Reverse Phone Lookup](https://www.411.com/reverse-phone-lookup) — reverse phone number lookup (US/Canada).
+
+---
+
+## 🧩 Scripts and Repositories (Scripts)
+Practical OSS tools and script collections for automating OSINT tasks.
+
+- [datasploit](https://github.com/datasploit/datasploit) — a collection of modules for collecting data on objects (people, domain, IP).
+- [ReconDog](https://github.com/s0md3v/ReconDog) — a multi-purpose reconnaissance utility (supports multiple modules).
+- [solana-mev-bot](https://github.com/i3visio/solana-mev-bot) — an example bot/script for blockchain analytics (Solana).
+- [LHF](https://github.com/blindfuzzy/LHF) — a repository with tools/scripts (various tasks).
+- [sherlock](https://github.com/sherlock-project/sherlock) — profile search by nicknames on dozens of platforms.
+- [AutOSINT](https://github.com/bharshbarger/AutOSINT) — automation of basic OSINT tasks.
+- [snoop](https://github.com/snooppr/snoop) — scripts for analyzing social networks and metadata.
+
+- [mosint](https://github.com/alpkeskin/mosint) — a utility for collecting information about emails/accounts/domains.
+
+> **Tip:** Place your custom scripts in `tools/my-osint-scripts/` and add links to them in this file:
+> ```markdown
+> - [My scripts (examples)](./my-osint-scripts/)
+> ```
+
+---
+
+## 📌 Notes and security
+- When publishing case studies, **do not publish personal data** without consent — anonymize sensitive information.
+- For private/paid services (Dehashed, IntelX, etc.), indicate if you used paid access.
+- It is recommended to add a short instruction (README) to each folder with your own scripts.
+- [datasploit](https://github.com/datasploit/datasploit) — a collection of modules for collecting data on objects (people, domain, IP). - [ReconDog](https://github.com/s0md3v/ReconDog) — a multi-purpose reconnaissance utility (supports multiple modules).
+- [solana-mev-bot](https://github.com/i3visio/solana-mev-bot) — an example bot/script for blockchain analytics (Solana).
+- [LHF](https://github.com/blindfuzzy/LHF) — a repository with tools/scripts (various tasks).
